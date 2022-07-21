@@ -1,4 +1,4 @@
-# ecommerce_empresa_x
+# E-commerce Empresa X
 Este é um e-commerce para a empresa X, feito em PHP e MySQL.
 
 # New markdown
