@@ -1,6 +1,14 @@
 # E-commerce Empresa X
 Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 
+### Linguagens do Projeto:
+
+* HTML
+* CSS
+* Javascript
+* PHP
+* MySQL
+
 # New markdown
 _Bearing Man Don't_
 **Herb Third**
