@@ -1,5 +1,5 @@
 # E-commerce Empresa X
-Este é um e-commerce para a empresa X, feito em PHP e MySQL.
+Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 
 # New markdown
 Bearing Man Don't
