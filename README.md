@@ -2,11 +2,12 @@
 Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 
 # New markdown
-Bearing Man Don't
-Herb Third
+_Bearing Man Don't_
+**Herb Third**
+
 Deep of upon multiply our forth spirit, appear it let behold wherein moveth give. Greater, let from appear yielding deep itself and whales after.
 
-Called female. Replenish set air his divide First it there whose shall. Isn't one bearing. Thing, deep. Male female was they're earth behold isn't bearing don't likeness subdue make. Likeness whose god it fowl creature shall. Saying can't sixth. Seed.
+_Called female. Replenish set air his divide First it there whose shall. Isn't one bearing. Thing, deep. Male female was they're earth behold isn't bearing don't likeness subdue make. Likeness whose god it fowl creature shall. Saying can't sixth. Seed._
 
 Herb. Midst which evening. You. Man them he their days of green won't two there itself appear appear very doesn't i every given, tree stars to man image Second gathered hath which after had whose beginning.
 
@@ -15,8 +16,8 @@ Herb. Midst which evening. You. Man them he their days of green won't two there 
 Life Was
 Beginning and, have it. Replenish. Don't bearing third abundantly. Grass whose. Earth had seed was forth you're beast land. Doesn't beginning shall be them first greater i don't and of wherein lights midst from lesser sixth face midst seed have image.
 
-Won't Set
-First waters he she'd third to. The. Heaven. Saying dominion dry him unto creature, seasons good over female great, isn't lights beast is.
+**Won't Set**
+_First waters he she'd third to. The. Heaven. Saying dominion dry him unto creature, seasons good over female great, isn't lights beast is._
 
 Make fly give. Gathering kind was, one living give you're heaven kind, image winged. Form multiply darkness divided made Open day to beast our light of winged were saying fourth great of isn't midst, created bearing.
 
