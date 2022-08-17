@@ -9,6 +9,12 @@ Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 * PHP
 * MySQL
 
+### Funcionalidades a desenvolver:
+
+1. Área de membros
+2. Integração com outros pagamentos
+3. Sistema de bônus primeira compra
+
 # New markdown
 _Bearing Man Don't_
 **Herb Third**
