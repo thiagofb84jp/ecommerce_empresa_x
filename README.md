@@ -26,6 +26,10 @@ Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 
 ![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2880px-PHP-logo.svg.png)
 
+## Links interessantes:
+
+[Google](https://www.google.com)
+
 # New markdown
 _Bearing Man Don't_
 **Herb Third**
