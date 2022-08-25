@@ -22,6 +22,10 @@ Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 
 ![Logo do Python](/img/python.png)
 
+#### Imagem externa
+
+![Logo do PHP](https://pt.wikipedia.org/wiki/PHP#/media/Ficheiro:PHP-logo.svg)
+
 # New markdown
 _Bearing Man Don't_
 **Herb Third**
