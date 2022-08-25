@@ -34,6 +34,8 @@ Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 
 Contribuidor principal: https://github.com/thiagofb84jp
 
+[Contribuidor] (Contribuidor principal: https://github.com/thiagofb84jp)
+
 # New markdown
 _Bearing Man Don't_
 **Herb Third**
