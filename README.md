@@ -24,7 +24,7 @@ Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 
 #### Imagem externa
 
-![Logo do PHP](https://pt.wikipedia.org/wiki/PHP#/media/Ficheiro:PHP-logo.svg)
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2880px-PHP-logo.svg.png)
 
 # New markdown
 _Bearing Man Don't_
