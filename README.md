@@ -30,6 +30,10 @@ Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 
 [Google](https://www.google.com)
 
+[https://www.youtube.com.br] (https://www.youtube.com.br)
+
+Contribuidor principal: https://github.com/thiagofb84jp
+
 # New markdown
 _Bearing Man Don't_
 **Herb Third**
