@@ -18,6 +18,10 @@ Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
 
+#### Imagem Local
+
+![Logo do Python](/img/python.png)
+
 # New markdown
 _Bearing Man Don't_
 **Herb Third**
