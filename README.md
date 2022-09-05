@@ -38,6 +38,15 @@ Contribuidor principal: https://github.com/thiagofb84jp
 
 [![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2880px-PHP-logo.svg.png)](https://github.com/thiagofb84jp)
 
+## Código da função soma
+
+```javascript
+function soma(a, b){
+    return a + b
+}
+```
+
+
 # New markdown
 _Bearing Man Don't_
 **Herb Third**
